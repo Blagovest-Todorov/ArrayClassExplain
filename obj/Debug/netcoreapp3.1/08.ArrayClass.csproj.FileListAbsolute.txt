@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.exe
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.deps.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.runtimeconfig.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\bin\Debug\netcoreapp3.1\08.ArrayClass.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.AssemblyInfo.cs
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.genruntimeconfig.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\08.ArrayClass\obj\Debug\netcoreapp3.1\08.ArrayClass.csprojAssemblyReference.cache
